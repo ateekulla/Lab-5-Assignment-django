@@ -11,4 +11,4 @@ week5 assignmnet
  # Step 4
 To start server type command " **python manage.py runserver** in command prompt
  # Step 5
- open the brower and type the url http://localhost:8000/polls/,you should see the text “Hello, world. 
+ open the brower and type the url http://localhost:8000/polls/ you should see the text “Hello, world. 
